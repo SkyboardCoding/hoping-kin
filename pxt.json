@@ -1,0 +1,27 @@
+{
+    "name": "Hoping-Kin",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.14.5",
+        "tag": "v0.14.5",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/0bcc1fdcf7d584fa3fd6f58457a0c85aa5527e5a",
+        "target": "1.8.22",
+        "pxt": "5.21.12",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
